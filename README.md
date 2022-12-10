@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @suhaib99
+- 👋 Hi, I’m @suhaib99
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,8 +8,8 @@
 suhaib99/suhaib99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
- 
+
+<!--  
  # Suhaib
 
 Hi there! I am a Data Scientist and Web Developer with a passion for turning complex data into beautiful and interactive visualizations. I have experience working with a variety of programming languages, including R, Python, SQL, Java, and C++.
@@ -26,4 +26,4 @@ Hi there! I am a Data Scientist and Web Developer with a passion for turning com
 - [Web Development Portfolio](https://github.com/your-username/web-development-portfolio): A showcase of my web development skills, featuring responsive, user-friendly, and visually appealing designs.
 
 ## Contact
-Feel free to contact me via email at yourname@email.com or connect with me on LinkedIn at https://linkedin.com/in/your-username. I'm always open to discussing new opportunities and collaborations.
+Feel free to contact me via email at yourname@email.com or connect with me on LinkedIn at https://linkedin.com/in/your-username. I'm always open to discussing new opportunities and collaborations. -->
