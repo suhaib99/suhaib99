@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and problem solve
 - 🛠️ **Currently Exploring**: FullStack Development and Data Science
 - 💻 **Tech Stack**: Python, JavaScript, SQL, React, Django, Node.js, FastAPI, and more
 - 🌐 **Looking For**: Opportunities in data analytics, technical consulting, and development
-- 📚 **Favorite Project**: [TechStart UCalgary](https://github.com/TechStartUCalgary) - Supporting and empowering fellow students through tech initiatives!
 
 ### 💡 Skills and Technologies
 
