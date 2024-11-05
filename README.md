@@ -1,3 +1,5 @@
+<div style="background-color: #f3e5f5; padding: 20px; border-radius: 10px;">
+
 # Hi there, I'm Suhaib Tariq! 👋
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast and problem solver who loves creating solutions with code. With experience in development, data analytics, and technical support, I enjoy diving into challenges, learning new technologies, and sharing my projects with the community.
@@ -9,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and problem solve
 - 💻 **Tech Stack**: Python, JavaScript, SQL, React, Django, Node.js, FastAPI, and more
 - 🌐 **Looking For**: Opportunities in data analytics, technical consulting, and development
 
+
 ### 💡 Skills and Technologies
 
 Below is a summary of my skills and technologies along with badges for some of my primary programming languages:
@@ -16,6 +19,7 @@ Below is a summary of my skills and technologies along with badges for some of m
 - **Programming Languages**: Python, JavaScript, SQL, Java, C++
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 - **Data Science & Machine Learning**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
 - **Web Development**: React, Express, FastAPI, Django
 - **Cloud Platforms**: AWS, Microsoft Azure, GCP
@@ -35,17 +39,17 @@ Here are some projects that I'm especially proud of:
 
 - **[Fifa Insights](https://medium.com/@st99/behind-the-scores-data-analytics-in-the-world-of-fifa-football-78cdf5c49859)**: An in-depth data analysis project exploring FIFA football scores, providing insights into team performance and trends.
 
-
-
 - **[TechStart UCalgary Projects](https://github.com/TechStartUCalgary)**: Contributed to initiatives that empower students in tech, such as workshops, events, and mentoring sessions.
 
 ### 🌍 Let's Connect
 
 - **LinkedIn**: [Suhaib Tariq](https://www.linkedin.com/in/suhaibtariq/)
-- **Email**: [suhaibtariq99@gmail.com](mailto\:suhaibtariq99@gmail.com)
+- **Email**: [suhaibtariq99@gmail.com](mailto:suhaibtariq99@gmail.com)
 - **Website**: [suhaibtariq.com](https://suhaibtariq.com) (Coming Soon!)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about technology and innovation. I'm always looking for ways to grow, and I'd love to be part of exciting projects!
 
 Thanks for stopping by, and happy coding! 🚀
+
+</div>
 
