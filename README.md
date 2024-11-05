@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and problem solve
 - 🎓 **Education**: Bachelor of Science in Computer Science from the University of Calgary
 - 🛠️ **Currently Exploring**: FullStack Development and Data Science
 - 💻 **Tech Stack**: Python, JavaScript, SQL, React, Django, Node.js, FastAPI, and more
-- 🌐 **Looking For**: Opportunities in data analytics, technical consulting, and development
+- 🌐 **Looking For**: Opportunities in data analytics, technical consulting, and software development
 
 
 ### 💡 Skills and Technologies
