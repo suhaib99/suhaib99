@@ -1,4 +1,4 @@
-# Hi there, I'm Suhaib Tariq! 👋
+# Hi there, I'm Suhaib! 👋
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast and problem solver who loves creating solutions with code. With experience in development, data analytics, and technical support, I enjoy diving into challenges, learning new technologies, and sharing my projects with the community.
 
